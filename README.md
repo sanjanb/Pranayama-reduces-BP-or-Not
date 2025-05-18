@@ -65,6 +65,6 @@ Based on both statistical tests and machine learning predictions, we can conclud
 
 ## Confusion Matrices for ML Models
 Heatmaps showing model prediction accuracy for each class (BP decreased vs not decreased) indicate varying degrees of performance, with Naive Bayes showing perfect classification.
-
+!(image)[/assets/rep.png]
 ## Final Statement
 Pranayama demonstrates a statistically significant reduction in systolic blood pressure, supported by both traditional statistical methods and modern machine learning techniques. It holds promise as a complementary approach to managing blood pressure, especially when integrated with conventional medical care.
