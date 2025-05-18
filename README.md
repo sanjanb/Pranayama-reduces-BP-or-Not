@@ -1,4 +1,4 @@
-   <img src="/assets/banner.ppg" width="900" height="100">
+   <img src="/assets/banner.ppg" width="900" height="200">
 
 # Does Pranayama Reduce Blood Pressure?
 
