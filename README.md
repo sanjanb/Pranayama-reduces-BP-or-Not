@@ -1,4 +1,4 @@
-<img src="/assets/banner.ppg" style="width: 50%; object-fit: cover;">
+<img src="/assets/banner.png" style="width: 50%; object-fit: cover;">
 
 # Does Pranayama Reduce Blood Pressure?
 
