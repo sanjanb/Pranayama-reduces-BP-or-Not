@@ -47,6 +47,8 @@ Four classification models (Logistic Regression, Random Forest, SVM, Naive Bayes
 | SVM                 | 50%      | Not very reliable in this dataset          |
 | Naive Bayes         | 100%     | Best performer                             |
 
+![image](/assets/compae.png)
+
 ### 4. Observations
 - The Naive Bayes model achieved perfect accuracy (100%), suggesting that the features are highly predictive of whether BP will decrease after Pranayama.
 - Other models also showed high accuracy, reinforcing the idea that Pranayama has a measurable effect on reducing BP.
