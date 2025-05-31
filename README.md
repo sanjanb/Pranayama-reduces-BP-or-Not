@@ -140,15 +140,15 @@ Heatmaps showing model prediction accuracy for each class (BP decreased vs not d
 Pranayama demonstrates a statistically significant reduction in systolic blood pressure, supported by both traditional statistical methods and modern machine learning techniques. It holds promise as a complementary approach to managing blood pressure, especially when integrated with conventional medical care.
 
 ```mermaid
-graph TD
-    A[Start] --> B{Load Data};
+graph TD;
+    A[Start] --> B[Load Data];
     B --> C[Data Exploration];
-    C --> D{Data Preparation};
-    D --> E{Data Splitting};
-    E --> F{Model Training (Initial)};
-    F --> G{Model Evaluation (Initial)};
-    G --> H{Model Optimization (Random Forest)};
-    H --> I{Model Evaluation (Optimized)};
+    C --> D[Data Preparation];
+    D --> E[Data Splitting];
+    E --> F[Model Training Initial];
+    F --> G[Model Evaluation Initial];
+    G --> H[Model Optimization Random Forest];
+    H --> I[Model Evaluation Optimized];
     I --> J[Summary and Conclusions];
     J --> K[End];
 ```
