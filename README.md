@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a3e48593-8394-4ff9-9de1-401d886a9e7d)<img src="/assets/banner.png"/>
+<img src="/assets/banner.png"/>
 
 # Does Pranayama Reduce Blood Pressure?
 
